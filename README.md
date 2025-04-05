@@ -2,7 +2,7 @@
 
 A comprehensive system for analyzing spoken English grammar through audio input, providing scores, error explanations, and corrected text suggestions.
 
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=Grammar+Scoring+Engine+Interface)
+![Demo Screenshot](assets/demo.png)
 
 ---
 
