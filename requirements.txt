@@ -1,0 +1,6 @@
+torch==2.2.0
+transformers==4.38.2
+librosa==0.10.2
+language-tool-python==5.7
+streamlit==1.35.0
+soundfile==0.12.1
